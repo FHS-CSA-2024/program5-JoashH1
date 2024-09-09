@@ -18,6 +18,8 @@ class Program5{
      double koopaMPG = (double)mKoopaking/gKoopaking;
      double frameMPG = (double)mPipeframe/gPipeframe;
      double BadwagonMPG = (double)mBadwagon/gBadwagon;
+
+        //Round your MPG to nearest 10th
      
      //Output values
      System.out.println( "Mushroom Cup Prix Racer Average Miles/Per Gallon");
